@@ -7,4 +7,4 @@ pip install requests
 
 Run:
 
-python currency_converter.py
+python main.py
